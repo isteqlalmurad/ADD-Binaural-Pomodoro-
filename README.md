@@ -3,7 +3,7 @@
 
 A minimalist focus timer combining binaural beats (852Hz) with a 30-minute work session. Designed specifically for ADHD brains.
 
-![Focus Timer Screenshot](/assets/snapshot.jpg)
+![Focus Timer Screenshot](/assets/snapshot.png)
 
 ## ✨ Why This Works
 
